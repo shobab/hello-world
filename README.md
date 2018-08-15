@@ -37,7 +37,7 @@ test -DsuiteXmlFile=target/surefire-reports/testng-failed.xml
 * To create the allure report, paste the below command into Goals field.
 
 ```
-site -> Creates allure reports
+site
 ```
 
 ## Report Paths
