@@ -20,9 +20,9 @@ Follow below steps to setup the project in Eclipse :-
 
 Follow below steps to run the project in Eclipse :-
 
-* Right click on the project, then click on Run As, then click on Maven build...
+* Right click on the project, then click on Run As, then click on `Maven build...`
 
-* To run the complete test suite, paste the below command into Goals field.
+* To run the complete test suite, paste the below command into _**Goals**_ field.
 
  ```
  clean compile exec:java -Dexec.mainClass="main.OptimizerTestCase" test
