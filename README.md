@@ -1,9 +1,9 @@
 
 
-#Backend Automation
+# Backend Automation  
 
 
-##Setup Project
+## Setup Project
 
 
 Follow below steps to setup the project in Eclipse :-
@@ -14,7 +14,7 @@ Follow below steps to setup the project in Eclipse :-
 * Import beAutomation project directory into Eclipse.
 
 
-##Run Project
+## Run Project
 
 Follow below steps to run the project in Eclipse :-
 
@@ -43,9 +43,8 @@ site -> Creates allure reports
 
 ```
 
-##Report Paths
+## Report Paths
 
-Allure report path = target/allure-report/index.html
-
+Allure report path = target/allure-report/index.htm
 TestNg report path = target/surefire-reports/emailable-report.html
 
