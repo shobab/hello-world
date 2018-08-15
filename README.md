@@ -42,6 +42,6 @@ site
 
 ## Report Paths
 
-Allure report path = target/allure-report/index.htm
+Allure report path = target/allure-report/index.html  
 TestNg report path = target/surefire-reports/emailable-report.html
 
