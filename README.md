@@ -22,9 +22,8 @@ Follow below steps to run the project in Eclipse :-
 
 * To run the complete test suite, paste the below command into Goals field.
 
-```
+ ```
  clean compile exec:java -Dexec.mainClass="main.OptimizerTestCase" test
-
  ```
 
 
@@ -32,7 +31,6 @@ Follow below steps to run the project in Eclipse :-
 
 ```
 test -DsuiteXmlFile=target/surefire-reports/testng-failed.xml
-
 ```
 
 
@@ -40,7 +38,6 @@ test -DsuiteXmlFile=target/surefire-reports/testng-failed.xml
 
 ```
 site -> Creates allure reports
-
 ```
 
 ## Report Paths
