@@ -9,7 +9,7 @@
 
 Follow below steps to setup the project in Eclipse :-
 
-* Install _**Maven plugin**_ in Eclipse if it was not supported by your current version.
+* Install _**Maven plugin**_ in Eclipse if it is not supported by your current version.
 
 
 * Import _**beAutomation**_ project directory into Eclipse.
