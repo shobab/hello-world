@@ -1,4 +1,4 @@
----
+
 
 #Backend Automation
 
@@ -49,4 +49,3 @@ Allure report path = target/allure-report/index.html
 
 TestNg report path = target/surefire-reports/emailable-report.html
 
----
